@@ -19,4 +19,4 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 ## Contact
 
 Pour toute question ou suggestion, veuillez nous contacter à pypassmanager-dev@mail.com. 
-Fait avec ❤️ en France.
+Développé en France.
